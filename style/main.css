@@ -1068,8 +1068,8 @@ header .show {
   cursor: pointer;
   background-color: var(--hover-color);
 }
-@media(max-width: 767px){
-  .events .form{
+@media (max-width: 767px) {
+  .events .form {
     width: 350px;
   }
 }
@@ -1487,14 +1487,14 @@ footer .contact .media a {
   color: #ccc;
   background-color: #313131;
   text-align: center;
-  width: 50px;
-  height: 45px;
   border-radius: 4px;
 }
 footer .contact .media a i {
   display: block;
   font-size: 24px;
   margin: 10px;
+  width: 30px;
+  height: 30px;
 }
 footer .contact .media a:hover:first-child {
   background-color: var(--hover-color);
